@@ -6,7 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-### Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=HoloFlow-PTV)](https://github.com/ni-chen/HoloFlow-PTV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=3D-MB-HoloNet)](https://github.com/ni-chen/3D-MB-HoloNet)
