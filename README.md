@@ -1,5 +1,5 @@
 
-> [!CAUTION]\
+> [!IMPORTANT]\
 > Unless otherwise specified, the code here are licensed under the **GPL or MIT open source licenses**. For any repositories without an explicit license, the copyright belongs to the authors (Ni Chen and other contributors).
 
 > [!TIP]\
