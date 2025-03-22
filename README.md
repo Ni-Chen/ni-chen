@@ -10,7 +10,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=Differentiable-Imaging)](https://github.com/ni-chen/Differentiable-Imaging)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arizonaCameraLab&repo=Ptychographic-Wavefront-Cameras)](https://github.com/arizonaCameraLab/Ptychographic-Wavefront-Cameras)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=Ptychographic-Wavefront-Cameras)](https://github.com/ni-chen/Ptychographic-Wavefront-Cameras)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=HoloFlow-PTV)](https://github.com/ni-chen/HoloFlow-PTV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=3D-MB-HoloNet)](https://github.com/ni-chen/3D-MB-HoloNet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=Misalignment-Correction-FPM)](https://github.com/ni-chen/Misalignment-Correction-FPM)
