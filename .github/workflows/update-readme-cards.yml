@@ -1,0 +1,31 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ensure assets directory
+        run: mkdir -p assets
+
+      - name: Download DiffDeflectometry card
+        run: |
+          curl -L 'https://github-readme-stats.vercel.app/api/pin/?username=vccimaging&repo=DiffDeflectometry' -o assets/DiffDeflectometry-card.svg || true
+
+      - name: Download DiffOptics card
+        run: |
+          curl -L 'https://github-readme-stats.vercel.app/api/pin/?username=vccimaging&repo=DiffOptics' -o assets/DiffOptics-card.svg || true
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "chore: update readme cards"
+          add: 'assets/*.svg'
