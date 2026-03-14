@@ -7,9 +7,6 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=Differentiable-Imaging)](https://github.com/ni-chen/Differentiable-Imaging)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=Ptychographic-Wavefront-Cameras)](https://github.com/ni-chen/Ptychographic-Wavefront-Cameras) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=HoloFlow-PTV)](https://github.com/ni-chen/HoloFlow-PTV) 
