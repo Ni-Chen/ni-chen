@@ -15,5 +15,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=Sectional-Holographic-Imaging)](https://github.com/ni-chen/Sectional-Holographic-Imaging) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vccimaging&repo=DiffDeflectometry)](https://github.com/vccimaging/DiffDeflectometry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vccimaging&repo=DiffOptics)](https://github.com/vccimaging/DiffOptics) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ni-chen&repo=LF-based-Synthetic-Holography)](https://github.com/ni-chen/LF-based-Synthetic-Holography)
 
 <!-- If you want to show more cards, add them to assets/ and reference here -->
